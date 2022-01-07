@@ -5,4 +5,4 @@ it is a simple project which runs directly in the terminal and all the etered da
 This was the first mini project that we did on C language.
 hope you like it!!
 
-PS: Whoever is viewing this repository do not copy paste the code as it does not help you in any way!! but do take ideas and contact me in case you have any doubts related to the code.
+
